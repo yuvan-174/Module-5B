@@ -37,6 +37,7 @@ print(result_data)
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/adb1b22f-a7b9-4ecf-aa9f-0682eb3ed6d7)
+
 ![image](https://github.com/user-attachments/assets/f64ba685-5527-4ebe-9857-8c394615ea53)
 
 ## Result
